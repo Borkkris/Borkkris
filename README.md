@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Borkkris
 - 👀 I’m interested in ... HTML + CSS
-- 🌱 I’m currently learning ... HTML + CSS + PYTHON
+- 🌱 I’m currently learning ... HTML + CSS + JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
