@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Borkkris
+- 👋 **Hi, my name is Christian Bork**
 - 👀 I’m interested in ... HTML + CSS + JS
 - 🌱 I’m currently learning ... HTML + CSS + JS
 - 💞️ I’m looking to collaborate on ...
