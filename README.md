@@ -1,6 +1,6 @@
- <h3>Hi, my name is Christian Bork</h3> 👋
+ <h3>Hi, my name is Christian Bork 👋</h3> 
 
-👁 + I’m interested in **Full Stack Web Developement**. <br> 👁
+👁 + I’m interested in **Full Stack Web Developement**. <br> 
 👨‍🎓 + Atm I'm participation in a program as a fellow of CF to become a **Full Stack Web Developer**. <br>
 📚 + I’m currently learning **React / Testing in the Development Process / JS** ...<br>
 👥 + I’m looking for people to **exchange experiences and thoughts with to learn more Web Developement**<br> <br>
