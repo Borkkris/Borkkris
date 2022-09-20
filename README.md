@@ -2,9 +2,9 @@
 
 👁 + I’m interested in **Full Stack Web Developement**. <br> 
 👨‍🎓 + Atm I'm participation in a program as a fellow of CF to become a **Full Stack Web Developer**. <br>
-📚 + I’m currently learning **React / Testing in the Development Process / JS** ...<br>
-👥 + I’m looking for people to **exchange experiences and thoughts with to learn more about Web Developement**<br>
-🌍 + I'm currently located in **Berlin, Germany** <br> <br>
+📚 + I’m currently learning **React / Testing in the Development Process / JS** ... .<br>
+👥 + I’m looking for people to **exchange experiences and thoughts with to learn more about Web Developement**. <br>
+🌍 + I'm currently located in **Berlin, Germany**. <br> <br>
 👨‍💻 + You can **reach me** via: 
   <ul> 
   🐦 <li><a href=https://twitter.com/Borkkriz>Twitter</a></li>
