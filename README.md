@@ -2,7 +2,7 @@
 
 + I’m interested in **Full Stack Web Developement**. <br>
 + Atm I'm participation in a program as a fellow of CF to become a **Full Stack Web Developer**. <br>
-+ I’m currently learning **HTML + CSS + JS + Node.js + REST API + MongoDB** ...<br>
++ I’m currently learning **React / Testing in the Development Process / JS** ...<br>
 + I’m looking to **learn for more experience**<br> <br>
 + You can **reach me** via: 
   <ul> 
