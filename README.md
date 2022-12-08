@@ -1,4 +1,4 @@
- <h3>Hi, my name is Christian Bork <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width: 20px; display: inline-block;" data-target="animated-image.originalImage"></h3> 
+ <h3>Hi, my name is Christian Bork <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></h3> 
 
 I recently graduated in a Programm to become a certified Full-Stack Web Developer.
 Lately I created a youtTube Clone in React and currently I'm working on a Dashboard also coded with in React with JavaScript.
