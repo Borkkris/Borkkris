@@ -3,8 +3,8 @@
 I recently graduated in a Programm to become a certified Full-Stack Web Developer.
 Lately I created a youtTube Clone in React and currently I'm working on a Dashboard also coded with in React with JavaScript.
 I’m looking for people to **exchange experiences and thoughts with to learn more about Web Developement and expand our Network**.<br>
-I'm currently located in **Berlin, Germany**. <br> 
-Visit my Portfilio here: <a href="https:// borkkris.github.io/website-portfolio/work.html" rel="nofollow">portfolio website</a><br>
+I'm currently located in **Berlin, Germany**. <br> <br>
+Visit my Portfilio here: <a href="https:// borkkris.github.io/website-portfolio/work.html" rel="nofollow">portfolio website</a><br> <br>
 You can **reach me** via: 
   <ul> 
   🐦 <li><a href=https://twitter.com/Borkkriz>Twitter</a></li>
