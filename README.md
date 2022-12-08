@@ -12,7 +12,7 @@ You can **reach me** via:
    <li>📬 <a href=mailto:christianbork.work@gmail.com>Email</a></li>
   </ul>
   
-  🧡 Feel free to contact me at any time. #FullStackWebDev
+  🧡 Feel free to contact me at any time.
 
 <!---
 Borkkris/Borkkris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
