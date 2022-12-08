@@ -1,6 +1,6 @@
  <p><h3>Hi, my name is Christian Bork</h3><p>
 
-I recently graduated in a Programm to become a certified Full-Stack Web Developer.
+I recently graduated in a programm to become a certified Full-Stack Web Developer.
 Lately I created a youtTube Clone in React and currently I'm working on a Dashboard also coded with in React with JavaScript.
 I’m looking for people to **exchange experiences and thoughts with to learn more about Web Developement and expand our Network**.<br>
 I'm currently located in **Berlin, Germany**. <br> <br>
