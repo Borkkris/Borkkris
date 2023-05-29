@@ -4,7 +4,7 @@ I recently graduated in a programm to become a certified Full-Stack Web Develope
 Lately I created a youtTube Clone and a modern Dashboard in React.
 I’m looking for people to **exchange experiences and thoughts with to learn more about Web Developement and expand our Network**.<br>
 I'm currently located in **Berlin, Germany**. <br> <br>
-Visit my Portfilio here:<a href=https://christianbork.netlify.app>Portfolio</a></li><br> <br>
+Visit my Portfilio here:<a href=https://christianbork.netlify.app> Portfolio</a></li><br> <br>
 You can **reach me** via:
   <ul> 
    <li>🐦 <a href=https://twitter.com/Borkkriz>Twitter</a></li>
