@@ -8,7 +8,7 @@ When I'm not coding, you can find me surrounded by music, paintings, nature and 
 Let's connect and collaborate on some exciting web projects together! 
 Feel free to explore my repositories and join me on this coding adventure. Happy coding! <code>:)</code>
 
-<h4>Visit my Portfilio here:<a href=https://christianbork.netlify.app> Portfolio</a></h4><br> <br>
+<h3>Visit my Portfilio here:<a href=https://christianbork.netlify.app> Portfolio</a></h3><br> <br>
 You can **reach me** via:
   <ul> 
    <li>🐦 <a href=https://twitter.com/Borkkriz>Twitter</a></li>
