@@ -1,9 +1,6 @@
  <p><h3>Hi, my name is Christian Bork.</h3><p>
 
-I recently graduated in a programm to become a certified Full-Stack Web Developer.
-Lately I created a youtTube Clone, Dalle Clone and a modern Dashboard in React.
-I’m looking for people to **exchange experiences and thoughts with to learn more about Web Developement and expand our Network**.<br>
-I'm currently located in **Berlin, Germany**. <br> <br>
+a passionate Full-Stack Web Developer with a knack for crafting awesome digital experiences. 💻 My skill set includes HTML5, CSS3, JavaScript (TS), Node.js, npm, and React and other tools which allow me to bring ideas to life and create visually stunning websites. 🚀 I'm all about clean code, intuitive user interfaces, and pixel-perfect designs. 🎨 When I'm not coding, you can find me surrounded by music, nature and plants 🌱, as I hold a Bachelor of Science in Horticulture Science. 🌿 Let's connect and collaborate on some exciting web projects together! Feel free to explore my repositories and join me on this coding adventure. Happy coding! 
 Visit my Portfilio here:<a href=https://christianbork.netlify.app> Portfolio</a></li><br> <br>
 You can **reach me** via:
   <ul> 
