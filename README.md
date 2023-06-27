@@ -5,9 +5,6 @@ My skill set includes HTML5, CSS3, JavaScript (TS), Node.js, npm, and React and 
 I'm all about clean code, intuitive user interfaces, and precise Design. 🎨 
 When I'm not coding, you can find me surrounded by music, paintings, nature and plants 🌱, as I hold a Bachelor of Science in Horticulture Science. 🌿 
 
-Let's connect and collaborate on some exciting web projects together! 
-Feel free to explore my repositories and join me on this coding adventure. Happy coding! <code>:)</code>
-
 <h3>Visit my Portfilio here:<a href=https://christianbork.netlify.app> Portfolio</a></h3><br> <br>
 You can <b>reach me</b> via:
   <ul> 
@@ -16,7 +13,8 @@ You can <b>reach me</b> via:
    <li>📬 <a href=mailto:christianbork.work@gmail.com>Email</a></li>
   </ul>
   
-  🧡 Feel free to contact me at any time.
+  🧡 Let's connect and collaborate on some exciting web projects together! 
+Feel free to explore my repositories and join me on this coding adventure. Happy coding! <code>:)</code>
 
 <!---
 Borkkris/Borkkris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
