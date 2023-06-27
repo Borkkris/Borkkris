@@ -1,6 +1,12 @@
  <h3>Hi, my name is Christian Bork,</h3>
 
-a passionate Full-Stack Web Developer with a knack for crafting awesome digital experiences. 💻 My skill set includes HTML5, CSS3, JavaScript (TS), Node.js, npm, and React and other tools which allow me to bring ideas to life and create visually stunning websites. 🚀 I'm all about clean code, intuitive user interfaces, and pixel-perfect designs. 🎨 When I'm not coding, you can find me surrounded by music, nature and plants 🌱, as I hold a Bachelor of Science in Horticulture Science. 🌿 Let's connect and collaborate on some exciting web projects together! Feel free to explore my repositories and join me on this coding adventure. Happy coding! 
+a passionate Full-Stack Web Developer with a knack for crafting awesome digital experiences. 💻 
+My skill set includes HTML5, CSS3, JavaScript (TS), Node.js, npm, and React and other tools which allow me to bring ideas to life and create visually stunning websites. 🚀 
+I'm all about clean code, intuitive user interfaces, and precise Design. 🎨 
+When I'm not coding, you can find me surrounded by music, paintings, nature and plants 🌱, as I hold a Bachelor of Science in Horticulture Science. 🌿 
+
+Let's connect and collaborate on some exciting web projects together! 
+Feel free to explore my repositories and join me on this coding adventure. Happy coding! <code>:)</code>
 Visit my Portfilio here:<a href=https://christianbork.netlify.app> Portfolio</a></li><br> <br>
 You can **reach me** via:
   <ul> 
