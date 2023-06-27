@@ -9,7 +9,7 @@ Let's connect and collaborate on some exciting web projects together!
 Feel free to explore my repositories and join me on this coding adventure. Happy coding! <code>:)</code>
 
 <h3>Visit my Portfilio here:<a href=https://christianbork.netlify.app> Portfolio</a></h3><br> <br>
-You can **reach me** via:
+You can <b>reach me</b> via:
   <ul> 
    <li>🐦 <a href=https://twitter.com/Borkkriz>Twitter</a></li>
    <li>💼 <a href=https://www.linkedin.com/in/christian-bork-8a809b243>LinkedIn</a></li>
