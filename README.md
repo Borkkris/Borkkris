@@ -7,7 +7,7 @@ When I'm not coding, you can find me surrounded by music, paintings, nature and 
 
 **atm: Working on a private app project in a small team with React Native.**
 
-<h3>Visit my Portfilio here:<a href=https://christianbork.netlify.app> Portfolio</a></h3><br> <br>
+<h3>Visit my Portfilio here:<a href=https://christianbork.netlify.app> Portfolio</a></h3><br>
 
 You can <b>reach me</b> via:
   <ul> 
