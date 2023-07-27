@@ -5,7 +5,7 @@ My skill set includes `HTML5, CSS3, JavaScript (TS), Node.js, npm, React/ React-
 I'm all about clean code, intuitive user interfaces, and precise Design. 🎨 
 When I'm not coding, you can find me surrounded by music, paintings, nature and plants 🌱, as I hold a Bachelor of Science in Horticulture Science. 🌿 
 
-** Working on a private app project in a small team with React Native. **
+**atm: Working on a private app project in a small team with React Native.**
 
 <h3>Visit my Portfilio here:<a href=https://christianbork.netlify.app> Portfolio</a></h3><br> <br>
 You can <b>reach me</b> via:
