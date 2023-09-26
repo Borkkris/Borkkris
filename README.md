@@ -12,7 +12,6 @@ When I'm not coding, you can find me surrounded by music, paintings, nature and 
 
 You can <b>reach me</b> via:
   <ul> 
-   <li>X <a href=https://twitter.com/Borkkriz>X</a></li>
    <li>💼 <a href=https://www.linkedin.com/in/christian-bork-8a809b243>LinkedIn</a></li>
    <li>📬 <a href=mailto:christianbork.work@gmail.com>Email</a></li>
   </ul>
