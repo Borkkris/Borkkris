@@ -16,9 +16,7 @@ You can <b>reach me</b> via:
    <li>📬 <a href=mailto:christianbork.work@gmail.com>Email</a></li>
   </ul>
   
-  
-
-  <br> <br>
+  <br>
   
 Let's connect and collaborate on some exciting web projects together! 
 Feel free to explore my repositories and join me on this coding adventure. Happy coding! <code>:)</code>
