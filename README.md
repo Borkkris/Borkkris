@@ -1,3 +1,4 @@
+<!---
  <h3>Hi, my name is Christian Bork,</h3>
 
 Full-Stack Web Developer with a knack for crafting digital experiences. 💻 
@@ -21,7 +22,6 @@ You can <b>reach me</b> via:
 Let's connect and collaborate on some exciting web projects together! 
 Feel free to explore my repositories and join me on this coding adventure. Happy coding! <code>:)</code>
 
-<!---
 Borkkris/Borkkris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
